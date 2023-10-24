@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  ios101-project6-tumblr
 //
-//  Created by Richard Martinez on 10/17/23.
+//  Created by Shantalia Perez on 10/17/23.
 //
 
 import UIKit
